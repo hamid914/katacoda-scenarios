@@ -1,0 +1,32 @@
+{
+  "title": "Katacoda Scenarios https://www.katacoda.com/hamid914",
+  "description": "Katacoda Scenarios https://www.katacoda.com/hamid914",
+  "details": {
+    "steps": [
+      {
+        "title": "Step 1",
+        "text": "step1.md"
+      },
+      {
+        "title": "Step 2",
+        "text": "step2.md"
+      },
+      {
+        "title": "Step 3",
+        "text": "step3.md"
+      }
+    ],
+    "intro": {
+      "text": "intro.md"
+    },
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "environment": {
+    "uilayout": ""
+  },
+  "backend": {
+    "imageid": ""
+  }
+}
